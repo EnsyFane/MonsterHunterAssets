@@ -33,7 +33,10 @@ Rosca:
 Fane:
 * Pixelart:
 	- Canapele
-	-
+	- Fireplace
+	
+Pavel: 
+
 
 
 ----------------------
@@ -53,7 +56,8 @@ Monstrii:
 * Wendigo
 * Fantome
 * Demoni
-*
+* Zombie
+
 
 ----------------------
 Arme:
@@ -65,7 +69,7 @@ Arme:
 ----------------------
 Enviroment:
 * Scaune
-* Fireplace
+X Fireplace
 * Noptiere
 X StreetLamp
 	0 Baza
