@@ -1,0 +1,79 @@
+Start date: 4 Feb 2019
+
+---------------------
+Platformer 2D 
+Android
+Pixelart
+
+----------------------
+Perioada joc: 1800 toamna
+
+Vanator de monstri
+diferite tipuri de monstri precum: - Varcolaci
+				   - Fantome
+				   - Etc.
+Fiecare nivel e un contract.
+
+Fiecare monstru o sa trebuiasca sa fie omorat/distrus diferit.
+Vigniett pe ecran pana pornesti un generator.
+Upgrade-uri si shop pt gloante si arme.
+Platforming gen Roguee Legacy.
+
+----------------------
+TODO:
+
+* PIXELART
+* Invata cum functioneaza unity pt mobile.
+
+Rosca:
+* Pixelart: 
+	- StreetLamps
+	- Outside Ground
+
+Fane:
+* Pixelart:
+	- Canapele
+	-
+
+
+----------------------
+Pixelart:
+* Caracter
+* Monstrii
+* Background
+* Interior Casa/e
+* Arme
+* Mobila
+*
+
+----------------------
+Monstrii: 
+* Vampir
+* Varcolac
+* Wendigo
+* Fantome
+* Demoni
+*
+
+----------------------
+Arme:
+* Revolver
+* XBow
+* Tepusa
+* Sare
+
+----------------------
+Enviroment:
+* Scaune
+* Fireplace
+* Noptiere
+X StreetLamp
+	0 Baza
+	0 Sparta
+* Copaci
+* Geamuri
+X Canapele
+	0 Baza
+	0 Decolorare & Murdarie
+	0 Rupturi
+X Outside Ground
